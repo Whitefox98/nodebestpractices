@@ -542,15 +542,15 @@ All statements above will return false if used with `===`
 
 <p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
 
-# `5. Going To Production Practices`
+# `5. Yendo a las prácticas de producción`
 
-## ![✔] 5.1. Monitoring
+## ![✔] 5.1. Monitorización
 
-**TL;DR:** Monitoring is a game of finding out issues before customers do – obviously this should be assigned unprecedented importance. The market is overwhelmed with offers thus consider starting with defining the basic metrics you must follow (my suggestions inside), then go over additional fancy features and choose the solution that ticks all boxes. Click ‘The Gist’ below for an overview of the solutions
+**TL;DR:** Monitorear es un juego para descubrir problemas antes de que lo hagan los clientes; obviamente, se le debe asignar una importancia sin precedentes. El mercado está abrumado por las ofertas, por lo tanto, considera empezar con la definición de las métricas básicas que debe seguir (mis sugerencias en el interior), luego repasar características sofisticadas adicionales y elegir la solución que cumple todos los requisitos. Haga clic en "Lo esencial" a continuación para obtener una descripción general de las soluciones
 
-**Otherwise:** Failure === disappointed customers. Simple
+**De lo contrario:** Fallar === clientes decepcionados. Simple
 
-🔗 [**Read More: Monitoring!**](/sections/production/monitoring.md)
+🔗 [**Read More: Monitorizar!**](/sections/production/monitoring.md)
 
 <br/><br/>
 
